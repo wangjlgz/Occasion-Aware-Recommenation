@@ -3,7 +3,7 @@ Shopping Occasions and Sequential Recommendation in E-commerce(WSDM2020)
 
 ## CuRe
 
-This is the source code of paper "[Time to Shop for Valentine’s Day: Shopping Occasions and Sequential Recommendation in E-commerce](http://people.tamu.edu/~jwang713/pubs/occasion-wsdm2020.pdf)".
+Code of paper "[Time to Shop for Valentine’s Day: Shopping Occasions and Sequential Recommendation in E-commerce](http://people.tamu.edu/~jwang713/pubs/occasion-wsdm2020.pdf)".
 
 ![The proposed framework](framework.png)
 
