@@ -7,6 +7,11 @@ Code of paper "[Time to Shop for Valentine’s Day: Shopping Occasions and Seque
 
 ![The proposed framework](framework.png)
 
+## Datasets
+
+The preprocessed datasets are included in the repo (`e.g. data/amazon/amazon_all.txt`), where each line contains an `user id` and `item id` (starting from 1) meaning an interaction (sorted by timestamp). Note that the last two interactions of each user are after the a global cutting time (please refer to Section 4.1 in our paper), acting as validation and testing case for the user.
+
+
 ## Requirements
 python==3.6.8
 
