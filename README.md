@@ -18,7 +18,7 @@ python==3.6.8
 tensorflow==1.14.0
 
 ## Usage
-```python run.py```
+```python run.py --epochs 100```
 
 ## Cite
 
